@@ -1,0 +1,16 @@
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.BusinessLogic.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.BusinessLogic.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Console.csprojResolveAssemblyReference.cache
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Console.exe.config
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Console.exe
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.Console.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Console.exe
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.Console.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Console\bin\Debug\FizzBuzz.Console.exe.config
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Console\obj\Debug\FizzBuzz.Console.exe
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Console\obj\Debug\FizzBuzz.Console.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Console\bin\Debug\FizzBuzz.Console.exe
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Console\bin\Debug\FizzBuzz.Console.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Console\bin\Debug\FizzBuzz.BusinessLogic.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Console\bin\Debug\FizzBuzz.BusinessLogic.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Console\obj\Debug\FizzBuzz.Console.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.BusinessLogic\bin\Debug\FizzBuzz.BusinessLogic.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.BusinessLogic\bin\Debug\FizzBuzz.BusinessLogic.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.BusinessLogic\obj\Debug\FizzBuzz.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.BusinessLogic\obj\Debug\FizzBuzz.BusinessLogic.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.BusinessLogic\obj\Debug\FizzBuzz.BusinessLogic.pdb

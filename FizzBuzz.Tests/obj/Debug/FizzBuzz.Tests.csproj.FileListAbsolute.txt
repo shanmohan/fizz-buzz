@@ -1,0 +1,11 @@
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.BusinessLogic.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.BusinessLogic.pdb
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\bin\Debug\nunit.framework.xml
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+D:\dev\github\fizz-buzz\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
